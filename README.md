@@ -1,5 +1,2 @@
 # ImageScrapper
-Building an image scrapper using selenium
-Follow the steps in order to execute this notebook
-1)Install ChromeDriver
-2)Give the absolute path of the Chrome Driver
+Building an image scrapper using selenium,We are scrapping the images on google through selenium and storing them in the folder name /images/search_term.Which is provided by us.
